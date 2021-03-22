@@ -7,5 +7,12 @@
     "C:\\Users\\HP\\.nuget\\packages\\materialdesigncolors\\2.0.0\\materialdesigncolors.2.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\materialdesignthemes\\4.0.0\\materialdesignthemes.4.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Users\\Luis Flores\\Desktop\\I Periodo 2021\\Desarrollo de Software\\III PARCIAL\\Proyecto_Ferreteria\\Proyecto_Ferreteria\\Proyecto_Ferreteria\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
