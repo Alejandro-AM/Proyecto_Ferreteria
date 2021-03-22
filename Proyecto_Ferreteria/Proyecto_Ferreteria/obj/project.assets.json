@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jorge Ayala\\Proyecto_Ferreteria\\Proyecto_Ferreteria\\Proyecto_Ferreteria\\Proyecto_Ferreteria.csproj",
+      "projectUniqueName": "C:\\Users\\Jorge Ayala\\Desktop\\Proyecto_Ferreteria\\Proyecto_Ferreteria\\Proyecto_Ferreteria.csproj",
       "projectName": "Proyecto_Ferreteria",
-      "projectPath": "C:\\Users\\Jorge Ayala\\Proyecto_Ferreteria\\Proyecto_Ferreteria\\Proyecto_Ferreteria\\Proyecto_Ferreteria.csproj",
+      "projectPath": "C:\\Users\\Jorge Ayala\\Desktop\\Proyecto_Ferreteria\\Proyecto_Ferreteria\\Proyecto_Ferreteria.csproj",
       "packagesPath": "C:\\Users\\Jorge Ayala\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jorge Ayala\\Proyecto_Ferreteria\\Proyecto_Ferreteria\\Proyecto_Ferreteria\\obj\\",
+      "outputPath": "C:\\Users\\Jorge Ayala\\Desktop\\Proyecto_Ferreteria\\Proyecto_Ferreteria\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
