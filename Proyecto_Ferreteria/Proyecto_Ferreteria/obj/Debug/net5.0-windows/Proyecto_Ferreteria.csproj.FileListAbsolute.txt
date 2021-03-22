@@ -24,3 +24,29 @@ C:\Users\Luis Flores\Desktop\I Periodo 2021\Desarrollo de Software\III PARCIAL\P
 C:\Users\Luis Flores\Desktop\I Periodo 2021\Desarrollo de Software\III PARCIAL\Proyecto_Ferreteria\Proyecto_Ferreteria\Proyecto_Ferreteria\obj\Debug\net5.0-windows\Login.baml
 C:\Users\Luis Flores\Desktop\I Periodo 2021\Desarrollo de Software\III PARCIAL\Proyecto_Ferreteria\Proyecto_Ferreteria\Proyecto_Ferreteria\obj\Debug\net5.0-windows\Proyecto_Ferreteria.csproj.CopyComplete
 C:\Users\Luis Flores\Desktop\I Periodo 2021\Desarrollo de Software\III PARCIAL\Proyecto_Ferreteria\Proyecto_Ferreteria\Proyecto_Ferreteria\obj\Debug\net5.0-windows\App.baml
+C:\T.Proyecto\Proyecto_Ferreteria\Proyecto_Ferreteria\bin\Debug\net5.0-windows\Proyecto_Ferreteria.exe
+C:\T.Proyecto\Proyecto_Ferreteria\Proyecto_Ferreteria\bin\Debug\net5.0-windows\Proyecto_Ferreteria.deps.json
+C:\T.Proyecto\Proyecto_Ferreteria\Proyecto_Ferreteria\bin\Debug\net5.0-windows\Proyecto_Ferreteria.runtimeconfig.json
+C:\T.Proyecto\Proyecto_Ferreteria\Proyecto_Ferreteria\bin\Debug\net5.0-windows\Proyecto_Ferreteria.runtimeconfig.dev.json
+C:\T.Proyecto\Proyecto_Ferreteria\Proyecto_Ferreteria\bin\Debug\net5.0-windows\Proyecto_Ferreteria.dll
+C:\T.Proyecto\Proyecto_Ferreteria\Proyecto_Ferreteria\bin\Debug\net5.0-windows\ref\Proyecto_Ferreteria.dll
+C:\T.Proyecto\Proyecto_Ferreteria\Proyecto_Ferreteria\bin\Debug\net5.0-windows\Proyecto_Ferreteria.pdb
+C:\T.Proyecto\Proyecto_Ferreteria\Proyecto_Ferreteria\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\T.Proyecto\Proyecto_Ferreteria\Proyecto_Ferreteria\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\T.Proyecto\Proyecto_Ferreteria\Proyecto_Ferreteria\obj\Debug\net5.0-windows\Proyecto_Ferreteria.csprojAssemblyReference.cache
+C:\T.Proyecto\Proyecto_Ferreteria\Proyecto_Ferreteria\obj\Debug\net5.0-windows\Login.g.cs
+C:\T.Proyecto\Proyecto_Ferreteria\Proyecto_Ferreteria\obj\Debug\net5.0-windows\App.g.cs
+C:\T.Proyecto\Proyecto_Ferreteria\Proyecto_Ferreteria\obj\Debug\net5.0-windows\Proyecto_Ferreteria_MarkupCompile.cache
+C:\T.Proyecto\Proyecto_Ferreteria\Proyecto_Ferreteria\obj\Debug\net5.0-windows\Proyecto_Ferreteria_MarkupCompile.lref
+C:\T.Proyecto\Proyecto_Ferreteria\Proyecto_Ferreteria\obj\Debug\net5.0-windows\App.baml
+C:\T.Proyecto\Proyecto_Ferreteria\Proyecto_Ferreteria\obj\Debug\net5.0-windows\Login.baml
+C:\T.Proyecto\Proyecto_Ferreteria\Proyecto_Ferreteria\obj\Debug\net5.0-windows\Proyecto_Ferreteria.g.resources
+C:\T.Proyecto\Proyecto_Ferreteria\Proyecto_Ferreteria\obj\Debug\net5.0-windows\Proyecto_Ferreteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\T.Proyecto\Proyecto_Ferreteria\Proyecto_Ferreteria\obj\Debug\net5.0-windows\Proyecto_Ferreteria.AssemblyInfoInputs.cache
+C:\T.Proyecto\Proyecto_Ferreteria\Proyecto_Ferreteria\obj\Debug\net5.0-windows\Proyecto_Ferreteria.AssemblyInfo.cs
+C:\T.Proyecto\Proyecto_Ferreteria\Proyecto_Ferreteria\obj\Debug\net5.0-windows\Proyecto_Ferreteria.csproj.CoreCompileInputs.cache
+C:\T.Proyecto\Proyecto_Ferreteria\Proyecto_Ferreteria\obj\Debug\net5.0-windows\Proyecto_Ferreteria.csproj.CopyComplete
+C:\T.Proyecto\Proyecto_Ferreteria\Proyecto_Ferreteria\obj\Debug\net5.0-windows\Proyecto_Ferreteria.dll
+C:\T.Proyecto\Proyecto_Ferreteria\Proyecto_Ferreteria\obj\Debug\net5.0-windows\ref\Proyecto_Ferreteria.dll
+C:\T.Proyecto\Proyecto_Ferreteria\Proyecto_Ferreteria\obj\Debug\net5.0-windows\Proyecto_Ferreteria.pdb
+C:\T.Proyecto\Proyecto_Ferreteria\Proyecto_Ferreteria\obj\Debug\net5.0-windows\Proyecto_Ferreteria.genruntimeconfig.cache
