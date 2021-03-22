@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "7C5dIz6lmz/NHUh/6SptMpbbfj3y4s+LlnLVMrSGWxztbPbUrxnL94TbnZfhvalu2LCnHY7sjJ6An6ys4ZuquA==",
+  "dgSpecHash": "QFGpRzMJVK3FRLxUrjBQix04CdyUy+SK6jUHSfrmG/PuIviDQ7gDntn368MJdmE3XUIDDEHecsB+dgyt6G6p1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luis Flores\\Desktop\\I Periodo 2021\\Desarrollo de Software\\III PARCIAL\\Proyecto_Ferreteria\\Proyecto_Ferreteria\\Proyecto_Ferreteria\\Proyecto_Ferreteria.csproj",
+  "projectFilePath": "C:\\T.Proyecto\\Proyecto_Ferreteria\\Proyecto_Ferreteria\\Proyecto_Ferreteria.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Luis Flores\\.nuget\\packages\\materialdesigncolors\\2.0.0\\materialdesigncolors.2.0.0.nupkg.sha512",
-    "C:\\Users\\Luis Flores\\.nuget\\packages\\materialdesignthemes\\4.0.0\\materialdesignthemes.4.0.0.nupkg.sha512"
+    "C:\\Users\\HP\\.nuget\\packages\\materialdesigncolors\\2.0.0\\materialdesigncolors.2.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\materialdesignthemes\\4.0.0\\materialdesignthemes.4.0.0.nupkg.sha512"
   ],
   "logs": []
 }
